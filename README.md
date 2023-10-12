@@ -15,5 +15,6 @@ Delete Buses: In case a bus is no longer in service, administrators remove it fr
 For Users:
 
 List Bus Schedule: Users can access the schedule of bus arrivals and departures, helping them plan their journeys with ease.
+
 View Bus Information: Users can retrieve vital information about the available buses, including the bus number and route, ensuring that they are well-informed.
 
